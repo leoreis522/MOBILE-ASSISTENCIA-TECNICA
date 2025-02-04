@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+header {
+    background-color: #FFA500;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #808080;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+h1, h2 {
+    color: #FFA500;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFA500;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #FFA500;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Adicione aqui o código para os detalhes visuais */
